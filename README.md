@@ -7,7 +7,7 @@ This project is about analyzing consumer complaints from Indian consumer complai
 2. Beautifulsoup for parsing html content.
 3. Evaluating Tensorflow, scikit learn for classification and text summary.
 
-#Future Work
+#TODO
 1. Classifying complaints to different categories like banking, e-commerce.
 2. Summarize consumer complaint details.
 3. Predicting complaint resolve rate if a new complaint is posted on forum.
