@@ -3,7 +3,7 @@
 This project is about analyzing consumer complaints from Indian consumer complaint forum(https://www.consumercomplaints.in/). Beautifulsoup and urllib is used to crawl data from site and parse the html pages to extract actual complaint data. Data is stored in JSON format along with complaint properties like title, created by, and created date, complaint details. 
 
 #Feaures
-1. Word Cloud https://github.com/ompanda/consumer_complaint/blob/master/word_cloud.png
+1. Word Cloud ![](https://github.com/ompanda/consumer_complaint/blob/master/word_cloud.png) 
 
   
 
